@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Publications
+
+[Incremental Guardrail Evaluation and Scoped Operating Posture for AI Agents](https://doi.org/10.5281/zenodo.23016882) — Kris Boehm, CISSP. An independently authored practitioner proposal for evaluating AI agent guardrails after material capability changes and recording a scoped Green, Yellow, or Red operating posture.
